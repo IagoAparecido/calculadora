@@ -1,4 +1,4 @@
-Estudo de React.JS
+# Estudo de React.JS
 
 <div>
     <img src="./public/screen.png" width="400px"</img> 
